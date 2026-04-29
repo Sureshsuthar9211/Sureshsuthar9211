@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Suresh Suthar </h2>
+<h2 align="left">Hi 👋 I'm Suresh </h2>
+
+<img src="banner.png" height="150"/>
 
 ###
 
