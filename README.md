@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋 I'm Suresh </h2>
 
 <div align="center">
-  <img src="banner.png" height="150" width="100%"/>
+  <img src="banner.png" height="150"/>
 </div>
 
 ###
