@@ -31,6 +31,31 @@
 
 ###
 
+<h1>🚀 About Me</h1>
+<ul>
+  <li>🎓 BCA student passionate about web development</li>
+  <li>💻 Building frontend projects (HTML, CSS, JavaScript)</li>
+  <li>🧠 Currently learning JavaScript</li>
+</ul>
+
+###
+
+<h1>🔥 Skills</h1>
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
+
+###
+
+<h1>📌 Projects</h1>
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
+
 <div align="center">
 
 <a href="https://www.linkedin.com/in/sureshsuthar06/" target="_blank">
@@ -46,5 +71,4 @@
 </a>
 
 </div>
-###
 
