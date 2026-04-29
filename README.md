@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Suresh Suthar and I'm a Web developer, from India.</h2>
+<h2 align="left">Hi 👋! My name is Suresh Suthar </h2>
 
 ###
 
