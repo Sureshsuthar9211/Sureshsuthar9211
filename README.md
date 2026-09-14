@@ -22,11 +22,11 @@
 
 ###
 
-<h1>🚀 About Me</h1>
+<h1>👤 About Me</h1>
 <ul>
   <li>🎓 BCA student passionate about web development</li>
-  <li>💻 Building frontend projects (HTML, CSS, JavaScript)</li>
-  <li>🧠 Currently learning JavaScript</li>
+  <li>💻 Building real-world projects</li>
+  <li>🧠 Focus on scalable, modular and reuseble code </li>
 </ul>
 
 ###
@@ -36,6 +36,11 @@
   <li>HTML5</li>
   <li>CSS3</li>
   <li>JavaScript</li>
+  <li>Node.js</li>
+  <li>Express</li>
+  <li>Mongo DB</li>
+  <li>MySql</li>
+  <li>Version Control</li>
 </ul>
 
 ###
