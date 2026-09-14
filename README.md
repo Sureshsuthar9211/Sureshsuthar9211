@@ -22,7 +22,7 @@
 
 ###
 
-<h1>👤 About Me</h1>
+<h1>🙋‍♂️ About Me</h1>
 <ul>
   <li>🎓 BCA student passionate about web development</li>
   <li>💻 Building real-world projects</li>
