@@ -7,8 +7,6 @@
 ###
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sureshsuthar9211&layout=compact&theme=tokyonight" height="150" alt="languages graph" />
 
   <img src="https://streak-stats.demolab.com?user=Sureshsuthar9211&theme=radical" height="150"/>
 
